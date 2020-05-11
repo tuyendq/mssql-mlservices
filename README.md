@@ -1,1 +1,5 @@
-# Microsoft SQL Server - Machine Learning Service
+# Microsoft SQL Server - Machine Learning Services
+
+Supported languages
+- Python
+- R
