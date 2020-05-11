@@ -1,2 +1,1 @@
-# mssql-mlservices
-Microsoft SQL Server - Machine Learning Service
+# Microsoft SQL Server - Machine Learning Service
